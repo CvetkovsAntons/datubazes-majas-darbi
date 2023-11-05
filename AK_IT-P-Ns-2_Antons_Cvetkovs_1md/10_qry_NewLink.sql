@@ -1,0 +1,3 @@
+ALTER TABLE orders
+ADD CONSTRAINT FOREIGN KEY (ShipVia)
+    REFERENCES shippers (ShipperID);
