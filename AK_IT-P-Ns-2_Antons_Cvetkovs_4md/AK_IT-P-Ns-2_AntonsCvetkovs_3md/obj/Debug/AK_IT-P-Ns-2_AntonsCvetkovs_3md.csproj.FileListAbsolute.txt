@@ -1,0 +1,10 @@
+D:\3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\obj\Debug\AK_IT-P-Ns-2_AntonsCvetkovs_3md.csproj.AssemblyReference.cache
+D:\3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\obj\Debug\AK_IT_P_Ns_2_AntonsCvetkovs_3md.Properties.Resources.resources
+D:\3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\obj\Debug\AK_IT-P-Ns-2_AntonsCvetkovs_3md.csproj.GenerateResource.cache
+D:\3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\obj\Debug\AK_IT-P-Ns-2_AntonsCvetkovs_3md.csproj.CoreCompileInputs.cache
+D:\3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\bin\Debug\AK_IT-P-Ns-2_AntonsCvetkovs_3md.exe.config
+D:\3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\bin\Debug\AK_IT-P-Ns-2_AntonsCvetkovs_3md.exe
+D:\3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\bin\Debug\AK_IT-P-Ns-2_AntonsCvetkovs_3md.pdb
+D:\3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\obj\Debug\AK_IT-P-Ns-2_AntonsCvetkovs_3md.exe
+D:\3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\obj\Debug\AK_IT-P-Ns-2_AntonsCvetkovs_3md.pdb
+D:\3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\AK_IT-P-Ns-2_AntonsCvetkovs_3md\obj\Debug\AK_IT_P_Ns_2_AntonsCvetkovs_3md.Form1.resources
